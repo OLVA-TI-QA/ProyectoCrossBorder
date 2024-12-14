@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_JhonC</name>
+   <tag></tag>
+   <elementGuidId>e9bc8fe1-375c-4360-817e-05a100e42cae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frm_sendDatos']/div/div[2]/div/div/span/span/span/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.select2-selection__rendered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>9f6a3d60-4d6e-43da-a303-5e16c7c01654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>44bf5f40-0f24-4c7b-bbcb-711bfdb43587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>××
+                                                        JhonC.                                                        </value>
+      <webElementGuid>35dd0e86-654b-4cef-99ab-3c606b167e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frm_sendDatos&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-7&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>75e3f8f9-8b51-4e7e-aa39-f4707514b7ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frm_sendDatos']/div/div[2]/div/div/span/span/span/ul</value>
+      <webElementGuid>6bbdade5-d282-42e1-831a-047687cf44ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidador:'])[1]/following::ul[1]</value>
+      <webElementGuid>e004a4b7-2050-4e33-8e62-8f6faf96e4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fin'])[1]/following::ul[1]</value>
+      <webElementGuid>619f45ad-3502-42b0-80c0-185181cc8f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>7c9839f4-512d-48eb-a6f9-f07a51ab0963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '××
+                                                        JhonC.                                                        ' or . = '××
+                                                        JhonC.                                                        ')]</value>
+      <webElementGuid>23742e19-74fc-460c-98a9-fef01f71a17d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

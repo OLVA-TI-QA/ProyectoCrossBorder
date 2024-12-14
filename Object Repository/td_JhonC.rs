@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_JhonC</name>
+   <tag></tag>
+   <elementGuidId>99eda00a-a8d9-4c20-99d9-28b5ace75718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tableReporte']/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ab6d645c-bca9-4da1-9fb9-fb5ff7aa5290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-middle</value>
+      <webElementGuid>0709cd9d-0c59-4ddc-989d-84afc4825458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JhonC.    </value>
+      <webElementGuid>ee3975dc-3ccf-42eb-aa06-3f8104bbba9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableReporte&quot;)/tbody[1]/tr[1]/td[@class=&quot;align-middle&quot;]</value>
+      <webElementGuid>e73dd0e3-fbf4-49de-9156-028adf39a463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tableReporte']/tbody/tr/td[4]</value>
+      <webElementGuid>858913ff-094a-46b8-b941-504d287cf5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocultar DSR'])[1]/following::td[4]</value>
+      <webElementGuid>68a3675f-0f7a-4ced-802c-2ec2d99c8883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observación'])[1]/following::td[4]</value>
+      <webElementGuid>de352cf1-3bb9-4964-bd82-0da5c2cdcecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLPE0110960E'])[1]/preceding::td[1]</value>
+      <webElementGuid>3d719c34-22eb-4ef7-beb4-4c935105f2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALIDADO ERROR'])[2]/preceding::td[3]</value>
+      <webElementGuid>36071c59-7653-48d6-9ba3-8b3a7bbf3155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>7b2c3088-2fad-4935-8a05-564a3d7f0ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'JhonC.    ' or . = 'JhonC.    ')]</value>
+      <webElementGuid>4d14a4e8-8954-44c8-8286-8db2c680f8cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

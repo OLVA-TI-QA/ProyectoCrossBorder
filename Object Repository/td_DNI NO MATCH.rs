@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_DNI NO MATCH</name>
+   <tag></tag>
+   <elementGuidId>c5ba5fd6-3b32-42a2-b511-bc21097238e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tableReporte']/tbody/tr/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6594f798-442c-4f18-bbb5-7022556dce3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-middle</value>
+      <webElementGuid>50506d9d-2804-433b-86b7-f8c95ddcc33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DNI NO MATCH</value>
+      <webElementGuid>2afe6e75-eae3-45ac-975f-1efe1ac3f7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableReporte&quot;)/tbody[1]/tr[1]/td[@class=&quot;align-middle&quot;]</value>
+      <webElementGuid>595b19a3-be8e-4ee0-98d5-00b460367327</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tableReporte']/tbody/tr/td[8]</value>
+      <webElementGuid>797dba6c-c3a5-4027-bedd-dc7804a521bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CORREGIDO'])[2]/following::td[1]</value>
+      <webElementGuid>6afabb6e-1e37-48c1-818f-e02cedf01ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLPE0118411E'])[1]/following::td[3]</value>
+      <webElementGuid>557a8afc-a33e-40e9-bdeb-2da8a792c78f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::td[1]</value>
+      <webElementGuid>20cd7425-d96a-4316-90c2-f7d48b9411b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/preceding::td[1]</value>
+      <webElementGuid>13d69fe2-0558-4aaf-bc42-8f7ad50a1314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>8cd515bf-8fb2-4535-8cc1-d105b1cd1075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'DNI NO MATCH' or . = 'DNI NO MATCH')]</value>
+      <webElementGuid>62cffb82-5075-4073-9f9e-bf8c2f0143c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

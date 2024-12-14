@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Motivo</name>
+   <tag></tag>
+   <elementGuidId>da654669-382b-423e-9e34-c6bc477b8c51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frm_sendDatos']/div/div[3]/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>81930ae8-346c-4836-abbe-4195b4310b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>motivo</value>
+      <webElementGuid>051c2047-4a9c-41c9-b538-613637d7a1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-3 col-form-label form-control-sm</value>
+      <webElementGuid>886365fd-1a08-460a-b0b6-cd1db1e6f16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Motivo:</value>
+      <webElementGuid>dcd555e4-8fc7-4f9d-8a81-3724339ab865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frm_sendDatos&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;form-group row&quot;]/label[@class=&quot;col-sm-3 col-form-label form-control-sm&quot;]</value>
+      <webElementGuid>e8b5e58e-7539-4a5d-ad26-5d9b058c1ba1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frm_sendDatos']/div/div[3]/div[3]/label</value>
+      <webElementGuid>48674bd0-7317-4b2a-94af-29ca75dc4f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidador:'])[1]/following::label[1]</value>
+      <webElementGuid>7d904129-5ba2-4199-bc85-3539a4a23593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::label[2]</value>
+      <webElementGuid>c2ffabdd-70e6-454a-bf9d-c724dadb6766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reasignar'])[1]/preceding::label[1]</value>
+      <webElementGuid>f3b48a7c-647c-4cb2-8023-9a847199eacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportar DSR'])[1]/preceding::label[1]</value>
+      <webElementGuid>6a71441c-f2d4-448f-8023-24dfdf8c9fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>5ff961b0-a121-4cc3-8fc8-74774de63d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Motivo:' or . = 'Motivo:')]</value>
+      <webElementGuid>77936a2d-cd83-4409-9cd7-63e5cff6ba45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
